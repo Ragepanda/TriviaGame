@@ -25,3 +25,7 @@ p{
     line-height: 36px;
     font-weight: 400;
 }
+
+.correct:hover, .incorrect:hover{
+    background-color: red;
+}
