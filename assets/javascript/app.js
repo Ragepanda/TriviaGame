@@ -20,7 +20,7 @@ var triviaObject = [
     {
         question: "Which standard two-handed weapon has the highest average damage?",
         answerIndex: 0,
-        answers: ["Greatsword", "Quarterstaff", "Greataxe", "Maul"],
+        answers: ["Greatsword", "Glaive", "Greataxe", "Greatclub"],
         image: "assets/images/greatsword.gif"
     },
     {
